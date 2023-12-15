@@ -1,6 +1,12 @@
+#
+# /` \/ `\   _  _   /` \/ `\   _  _   /` \/ `\   _  _   /` \/ `\
+# \      / /` \/ `\ \      / /` \/ `\ \      / /` \/ `\ \      /
+#  '.  .'  \      /  '.  .'  \      /  '.  .'  \      /  '.  .'
+#    \/     '.  .'     \/     '.  .'     \/     '.  .'     \/
+#             \/                \/                \/
 
-#    ,d88b.d88b,
-#    88888888888
-#    `Y8888888Y'
-#      `Y888Y'    
-#        `Y'
+
+# Das hier ist übrigens ein Kommentar, alles was hinter einer # in einer Zeile steht
+# wird nicht im Programm ausgeführt und dient zur beschreibung des Codes :)
+
+# Weiter gehts in der Datei schleifen.py
